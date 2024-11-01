@@ -1,5 +1,8 @@
 ## Matrix Pressure Sensor 
 
+![Image](pressurecontroller.jpg)
+
+
 [Demo 1](https://youtu.be/klJzl86bZGE)
 
 ## Author
